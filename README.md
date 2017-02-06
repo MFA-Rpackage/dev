@@ -1,4 +1,4 @@
-## 2016 Fall UC Berkeley Stat243 Final Project: development files and package <br />
+## R package MFA: development files and package <br />
 ### Co-authors: Ruonan HAO, Mingjia CHEN, Yizhou ZHAO, Zhenqi WANG <br />
 ⋅⋅* To access the final **package**: please download the '.gz' file and install <br />
 ⋅⋅* To access the **vignette**: please see the "mfa_vignette.html" in this repo <br />
